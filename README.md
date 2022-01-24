@@ -2,7 +2,7 @@
 ## _The only da hood script you'll ever need_
 
 
-
+You must join the discord at https://discord.com/invite/6ex
 This is an extremely useful script, packed with features.
 
 
