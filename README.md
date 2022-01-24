@@ -1,11 +1,10 @@
 # Krypt
 ## _The only da hood script you'll ever need_
 
-
-You must join the discord at https://discord.com/invite/6ex
 This is an extremely useful script, packed with features.
 
-
+## Discord
+You must join the discord at https://discord.com/invite/6ex
 ## Why choose us?
 
 - OG's (We have been playing the game since release, and making scripts for over 2 years)
