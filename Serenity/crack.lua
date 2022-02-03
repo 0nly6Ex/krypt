@@ -7,6 +7,12 @@ hookfunc(
         if c == "https://uhh98g4h89s.000webhostapp.com/OgueyG73f.php" then
             return "6ExOnTop"
         end
+        if c == "https://pastebin.com/7YX80VVg" then
+            return "1419494736"
+        end
+        if c == "https://pastebin.com/9MpcHCd2" then
+            return "-- Seren BL"
+        end
         return a(b, c)
     end
 )
