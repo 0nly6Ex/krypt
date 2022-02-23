@@ -3,5 +3,5 @@ _G.Key = "" --// Enter your access key in between the quotes
     Key can be found at https://krypt.top
     Please join our discord for more updates at https://discord.gg/kjkJUkF5mj
 ]]
-
+--// Made by 6Ex
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/resources/script.lua"))()
